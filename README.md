@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hipoot
 - 👀 I’m interested in game design and audio production
-- 🌱 I’m currently learning Game Sciences & Buisiness Management @ RPI in Troy NY
-- 💞️ I’m looking to collaborate on game projects
+- 🌱 I’m a recent graduate of Rensselaer Polytechnic Institute W/ an MBA & B.S. in Game Sciences
+- 💞️ I’m looking to collaborate on game projects and dynamic audio systems
 - 📫 Reach me here!
 
 <!---
